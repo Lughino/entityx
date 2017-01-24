@@ -21,7 +21,7 @@
     "bluebird": "^2.2.2",
     "codeflyer-errorx": "^0.1.2",
     "connection-store": "^1.0.0",
-    "mongodb": "^1.4.22",
+    "mongodb": "^2.2.21",
     "q": "^1.0.1"
   },
   "devDependencies": {
